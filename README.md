@@ -1,6 +1,6 @@
 # HiWi Applying Agent 🎓
 
-Automatically generate personalized outreach emails to BTU professors for HiWi positions. This project combines an intelligent agent pipeline with an interactive web portal.
+Automatically generate personalized outreach emails to University professors for HiWi positions. This project combines an intelligent agent pipeline with an interactive web portal.
 
 - **Agent** — Analyzes your transcript, finds matching professors, scores fit, and drafts emails
 - **Portal** — Beautiful web interface to upload files, track progress, and download results
