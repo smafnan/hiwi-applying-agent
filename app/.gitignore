@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+*.log
+data/transcript.pdf
+.env.local
+*.xlsx
+node_modules/
