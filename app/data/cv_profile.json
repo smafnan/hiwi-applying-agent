@@ -1,0 +1,26 @@
+{
+  "name": "Your Name",
+  "degree": "M.Sc. [Your Field], BTU Cottbus-Senftenberg (ongoing, 2023–present)",
+  "bachelor": "B.Sc. [Your Undergraduate Field], [Your Undergraduate University] (2016–2020)",
+  "email": "your.email@example.com",
+  "phone": "+49 000 00000000",
+  "location": "City, Germany",
+  "top_skills": [
+    "Skill 1",
+    "Skill 2",
+    "Skill 3"
+  ],
+  "strongest_projects": [
+    "Project 1: Brief description",
+    "Project 2: Brief description"
+  ],
+  "quantified_wins": [
+    "Win 1: Brief quantified win",
+    "Win 2: Brief quantified win"
+  ],
+  "work_experience": [
+    "Job Title — Company Name (Start Date – End Date)"
+  ],
+  "languages": ["English (fluent)", "German (working proficiency)"],
+  "disability_note": "[Optional disability note or other personal details, if applicable]"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Your Name",
+  "degree": "M.Sc. [Your Field]",
+  "degree_status": "ongoing",
+  "current_institution": "BTU Cottbus-Senftenberg",
+  "top_skills": [
+    "Skill 1",
+    "Skill 2",
+    "Skill 3",
+    "Skill 4"
+  ],
+  "strongest_projects": [
+    "Project Title 1: Brief description",
+    "Project Title 2: Brief description"
+  ],
+  "key_achievement": "Brief quantified achievement (e.g., '30% improvement in X', 'Built system that handled Y')",
+  "work_experience": [
+    {
+      "role": "Job Title",
+      "company": "Company Name",
+      "duration": "Start Date – End Date"
+    }
+  ]
+}
